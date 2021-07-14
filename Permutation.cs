@@ -6,6 +6,8 @@
 //IsPermutation("rats", "tar") = false
 //IsPermutation("rats", "stars") = false
 
+//Video of me explaining this code https://youtu.be/bRm-jqU7Q1g
+
 using System;
 
 namespace TechInterviewPermutation
