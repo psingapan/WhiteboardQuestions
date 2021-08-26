@@ -1,4 +1,6 @@
-﻿using System;
+//1. The method below exemplifies a way to reverse a character array (in place).
+
+using System;
 
 namespace ConsoleApp1
 {
@@ -28,11 +30,9 @@ namespace ConsoleApp1
                 start++;
                 end--;
 
-            }
-
-
-            
+            }  
         }
+        
     }
 
 }
